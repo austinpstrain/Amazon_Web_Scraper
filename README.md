@@ -12,11 +12,3 @@ Proxies with prot 8080 or 3128 are most like to work
 Proxies with transparent anonymity are most likely to work
 Proxies with HTTPS protocals are required
 
-
-## Authors
-
-* **Sarthak Batra** - *Initial work* - [My Github](https://github.com/sarthakbatragatech)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
